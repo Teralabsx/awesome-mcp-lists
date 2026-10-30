@@ -324,6 +324,7 @@ MCP servers for accessing external services and APIs.
 | 86 | **Dreamwork** | Search jobs, tailor application materials, and track applications; public browsing needs no key | [GitHub](https://github.com/dreamworkhq/mcp) |
 | 86 | **Social Growth Engineers** | Hosted remote MCP server (Streamable HTTP, OAuth) for viral TikTok/Reels videos, hooks, app growth playbooks, articles, reports and App Store data. | [Docs](https://www.socialgrowthengineers.com) |
 | 87 | **Shortimize** | Hosted remote MCP server (Streamable HTTP, API key via Bearer token) for tracking TikTok, Instagram Reels and YouTube Shorts accounts and videos: views, growth and analytics. | [Docs](https://docs.shortimize.com) |
+| 88 | **Tera Ads** | Hosted remote MCP server (Streamable HTTP, OAuth 2.1 with PKCE and dynamic client registration) for Meta (Facebook and Instagram) ads: read live campaigns, ad sets, ads, creatives and insights, review which campaigns lose money after Shopify returns, pause, turn on and change budgets, and create campaigns, ad sets and ads that always start paused. Each connection is read only, ask first or make changes; a pause, turn-on or budget change can be undone for 7 days. Tera Ads account required (free plan 30 calls a week). Remote MCP `https://teraads.co/mcp` · Registry `co.teraads/connect` | [GitHub](https://github.com/Teralabsx/meta-ads-mcp) · [Docs](https://teraads.co/meta-ads-mcp) |
 
 ### AI & Machine Learning
 
